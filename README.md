@@ -13,3 +13,7 @@ Replace the entry in webpack.common.js to
 // },
 Then create a vendor.js file in the src folder and import what you need, for example:
 // import "bootstrap";
+
+#.scss Files
+.Delete \_config.scss and \_utilities.scss if not needed
+.Also remove @import in main.scss
