@@ -16,4 +16,4 @@ Then create a vendor.js file in the src folder and import what you need, for exa
 .Also remove @import in main.scss
 
 #Favicon
-.favicon not included, so add it in the production build
+.Favicon not included, so add it in the production build
