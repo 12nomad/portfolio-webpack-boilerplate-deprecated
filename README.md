@@ -1,6 +1,3 @@
-#Favicons
-.Rename your favicon to "logo.png" and replace the default one in the src folder...
-
 #Images
 .Place all your images in src/img/...
 
