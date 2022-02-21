@@ -1,3 +1,5 @@
+#DEPRECATED
+
 #Images
 .Place all your images in src/img/...
 
