@@ -1,9 +1,9 @@
-#DEPRECATED
+## DEPRECATED
 
-#Images
+### Images
 .Place all your images in src/img/...
 
-#Vendor
+### Vendor
 .In case you use vendor:
 Replace the entry in webpack.common.js to
 // entry: {
@@ -13,9 +13,10 @@ Replace the entry in webpack.common.js to
 Then create a vendor.js file in the src folder and import what you need, for example:
 // import "bootstrap";
 
-#.scss Files
-.Delete \_config.scss and \_utilities.scss if not needed
-.Also remove @import in main.scss
+### .scss Files
+- Delete \_config.scss and \_utilities.scss if not needed
+- Also remove @import in main.scss
 
-#Favicon
+### Favicon
 .Favicon not included, so add it in the production build
+
